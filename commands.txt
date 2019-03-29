@@ -1,0 +1,7 @@
+from blog.model import Post
+
+Post.objects.all()
+
+Post.objects.create(title = , text =)
+
+Post.objects.get(pk = id)
